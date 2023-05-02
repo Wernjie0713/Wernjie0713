@@ -6,6 +6,12 @@ Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Sc
 
 Apart from that, I've always been fascinated by digital technology, which ultimately led me to pursue a degree in computer science. I'm excited to see where this path takes me and am eager to continue exploring all the opportunities that come my way.
 
+### :man_technologist: About Me :
+
+- 📆 13/07/2003
+- 🏫 Study at University Technology Malaysia
+- 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
+
 ### 🌱 I’m currently learning...
 **SECP3204-[Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)**
 
@@ -32,8 +38,9 @@ Apart from that, I've always been fascinated by digital technology, which ultima
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/Wernjie0713/Wernjie0713">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wernjie0713&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wernjie0713's GitHub Stats" /></a>
+<a href="https://github.com/Wernjie0713/Wernjie0713">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernjie0713&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Wernjie0713/Wernjie0713">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wernjie0713&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wernjie0713's GitHub Stats" />
-</a>
+
+
