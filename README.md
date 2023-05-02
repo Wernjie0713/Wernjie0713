@@ -18,8 +18,18 @@ Apart from that, I've always been fascinated by digital technology, which ultima
 ###  My Lecturer
 **[Dr Shahizan bin Othman](https://github.com/drshahizan)**
 
-## 🛠️ Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
+**Languages**  
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Tools**  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
 ## 📫 How to reach me
@@ -29,6 +39,7 @@ Apart from that, I've always been fascinated by digital technology, which ultima
 <a href="https://www.linkedin.com/in/yong-wern-jie-0a5b90261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yong-wern-jie-0a5b90261" height="30" width="40" /></a>
 <a href="https://discord.gg/9772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9772" height="30" width="40" /></a>
 </p>
+ <a href="mailto:yongwernjie.2003@gmail.com"><img src="https://img.shields.io/badge/yongwernjie.2003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 <!--- Your Fun Facts Here --->
 ## ⚡ Fun facts
@@ -39,6 +50,7 @@ Apart from that, I've always been fascinated by digital technology, which ultima
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/Wernjie0713/Wernjie0713">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wernjie0713&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wernjie0713's GitHub Stats" /></a>
+</details>
 <a href="https://github.com/Wernjie0713/Wernjie0713">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernjie0713&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
