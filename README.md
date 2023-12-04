@@ -2,7 +2,7 @@
 
 Hi, my name is <b>Yong Wern Jie</b>, <b><em>A Friend, Dude and Buddy From Earth</em></b> and I am 20 years old. I come from <em>Johor, Malaysia</em>. In my free time, I enjoy playing basketball and badminton, as well as playing video games. I also like to read novels and watch movies, especially those with themes of adventure, detective fiction, and history. I'm a curious person and enjoy exploring new things, especially when it comes to learning about the world's history.
 
-Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Science in Data Engineering](https://comp.utm.my/secp/)** at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
+Currently, I'm a <b><mark>second-year student pursuing a degree in **[Computer Science in Data Engineering](https://comp.utm.my/secp/)** at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
 
 Apart from that, I've always been fascinated by digital technology, which ultimately led me to pursue a degree in computer science. I'm excited to see where this path takes me and am eager to continue exploring all the opportunities that come my way.
 
