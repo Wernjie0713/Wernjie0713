@@ -100,7 +100,3 @@ With hands-on experience in **full-stack development, industry collaboration, an
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernjie0713&layout=compact&langs_count=6&theme=react" />
   </a>
 </p>
-
-## 📊 My GitHub Contribution Graph
-🌟 Check out my latest contributions on GitHub:  
-[![GitHub Contribution Graph](https://github.com/users/Wernjie0713/contributions)](https://github.com/Wernjie0713)
