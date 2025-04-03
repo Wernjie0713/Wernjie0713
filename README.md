@@ -14,6 +14,9 @@ With hands-on experience in **full-stack development, industry collaboration, an
 - 🌍 Based in **Johor, Malaysia**  
 - 🎮 Passionate about **web development, AI-driven solutions, software engineering, and data engineering**  
 
+## 🔗 Portfolio
+Check out my personal website: [wernjie0713.github.io](https://wernjie0713.github.io/)
+
 ---
 
 ## 🔥 Technical Skills
