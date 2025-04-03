@@ -53,6 +53,15 @@ Check out my personal website: [wernjie0713.github.io](https://wernjie0713.githu
 ---
 
 ## 🚀 Notable Projects
+### **Nexscholar – Full-Stack Educational Platform**
+- Developed in collaboration with the founder as Lead Programmer
+- Built from scratch using Laravel, React.js, Tailwind CSS, and MySQL
+- Designed as a social platform bridging postgraduates, undergraduates, academic staff, industry partners, and university administrators
+- Features include user authentication, content sharing, academic networking, and AI-powered tools for profile and CV generation
+- Aims to foster collaboration, visibility, and engagement across the academic and professional ecosystem
+
+🔗 **Try it here →** [Nexscholar](https://nexscholar.com/)
+
 ### **UTM DuitNow – Secure Transaction Record System**
 - Developed a **transaction record system** for **Paynet Digital Campus 3.0 competition**  
 - Features **OCR-based transaction recording, secure payment logging, and data integrity measures**  
