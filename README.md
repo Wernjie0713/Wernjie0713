@@ -7,14 +7,8 @@ With hands-on experience in **full-stack development, industry collaboration, an
 ---
 
 ## 💡 About Me
-- 🎓 **Computer Science (Data Engineering) Student @ UTM**  
-- 💻 **Lead Programmer @ Nexscholar Sdn. Bhd. (Freelance)**  
-- 🏆 **Champion - Cisco AI Hackathon 2024**
-- 🏆 **Second Place & Special Award - Paynet Digital Campus 3.0**  
-- 🌍 Based in **Johor, Malaysia**  
-- 🎮 Passionate about **web development, AI-driven solutions, software engineering, and data engineering**  
-
-## 🔗 Portfolio
+- 🎓 **Computer Science (Data Engineering) Student @ UTM** - 💻 **Lead Programmer @ Nexscholar Sdn. Bhd. (Freelance)** - 🏆 **Champion - Cisco AI Hackathon 2024**
+- 🏆 **Second Place & Special Award - Paynet Digital Campus 3.0** - 🌍 Based in **Johor, Malaysia** - 🎮 Passionate about **web development, AI-driven solutions, software engineering, and data engineering** ## 🔗 Portfolio
 Check out my personal website: [wernjie0713.github.io](https://wernjie0713.github.io/)
 
 ---
@@ -43,6 +37,8 @@ Check out my personal website: [wernjie0713.github.io](https://wernjie0713.githu
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D7?style=for-the-badge&logo=alteryx&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2325A162.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -62,34 +58,26 @@ Check out my personal website: [wernjie0713.github.io](https://wernjie0713.githu
 
 🔗 **Try it here →** [Nexscholar](https://nexscholar.com/)
 
-### **UTM DuitNow – Secure Transaction Record System**
-- Developed a **transaction record system** for **Paynet Digital Campus 3.0 competition**  
-- Features **OCR-based transaction recording, secure payment logging, and data integrity measures**  
-- **Achievements:** Special Award & 2nd Place 🏅  
-- Built using **Laravel, React.ts, MySQL**  
+### **Aiyoh – AI-Powered Learning Platform (JomHack Varsity Challenge 2025)**
+- Co-developed by **team LimaPuluh** for the **"AI for Education & Learning"** track.
+- Designed to **combat student procrastination** and enhance learning through **personalized AI assistance, gamified rewards, and adaptive learning paths**.
+- Key features include a **24/7 AI Tutor (GPT-4o/Gemini)**, interactive rewards, and **PDF processing for generating quizzes and game scenarios**.
+- Built using **React.js, Tailwind CSS, Supabase, and OpenAI API**.
 
-### **Book Purchase System – ghostfriend.my**
-- Collaborated with **senior developers** to develop a **book purchasing system**  
-- Built using **Astro + Vue.js**, ensuring **fast performance and high security**  
-- Enhanced the **user experience and backend optimization**
+🔗 **Try it here (Note: AI APIs are currently disconnected post-hackathon) →** [Aiyoh Prototype](https://aiyoh.netlify.app)
+
+### **UTM DuitNow – Secure Transaction Record System**
+- Developed a **transaction record system** for **Paynet Digital Campus 3.0 competition** - Features **OCR-based transaction recording, secure payment logging, and data integrity measures** - **Achievements:** Special Award & 2nd Place 🏅  
+- Built using **Laravel, React.ts, MySQL** ### **Book Purchase System – ghostfriend.my**
+- Collaborated with **senior developers** to develop a **book purchasing system** - Built using **Astro + Vue.js**, ensuring **fast performance and high security** - Enhanced the **user experience and backend optimization**
 
 🔗 **Try it here →** [真的友鬼 - Book Purchase System](https://ghostfriend.my/)
 
 ### **AIcademy – Cisco AI Hackathon Winning Project 🏆**
-- AI-powered **learning platform** designed to **combat academic procrastination**  
-- Features an **AI chatbot, gamified learning experiences, and real-time educational support**  
-
-🔗 **Try it here →** [AIcademy Platform](https://aicademy-platform.web.app/)  
+- AI-powered **learning platform** designed to **combat academic procrastination** - Features an **AI chatbot, gamified learning experiences, and real-time educational support** 🔗 **Try it here →** [AIcademy Platform](https://aicademy-platform.web.app/)  
   
 ### **YV Track – Industry Collaboration Project**
-- Developed a **student development tracking system** based on **Youth Venture Asia's requirements**  
-- Features include **AI-driven resume generation, reward systems, and event tracking**  
-- Built using **HTML, CSS, JavaScrip, Bootstrap**  
-
-🔗 **[More Details](https://drive.google.com/drive/folders/1rz07MxonoSbPA39k-OffWWP7t8yFdmxW)**  
-
-
----
+- Developed a **student development tracking system** based on **Youth Venture Asia's requirements** - Features include **AI-driven resume generation, reward systems, and event tracking** - Built using **HTML, CSS, JavaScrip, Bootstrap** 🔗 **[More Details](https://drive.google.com/drive/folders/1rz07MxonoSbPA39k-OffWWP7t8yFdmxW)** ---
 
 ## 📫 Let's Connect!  
 🔗 **LinkedIn:** [Yong Wern Jie](https://www.linkedin.com/in/yong-wern-jie-0a5b90261/)  
