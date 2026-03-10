@@ -96,11 +96,3 @@ An online book purchasing platform developed as part of a freelance collaboratio
 ## Let's Connect
 - LinkedIn: [Yong Wern Jie](https://www.linkedin.com/in/yong-wern-jie-0a5b90261/)
 - Email: [yongwernjie.2003@gmail.com](mailto:yongwernjie.2003@gmail.com)
-
-## GitHub Stats
-<p align="center">
-  <a href="https://github.com/Wernjie0713">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wernjie0713&show_icons=true&count_private=true&theme=react" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernjie0713&layout=compact&langs_count=6&theme=react" />
-  </a>
-</p>
