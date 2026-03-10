@@ -1,99 +1,103 @@
-# 👋 Hi there, I'm Yong Wern Jie!  
+# Hi, I'm Yong Wern Jie 👋
 
-I'm **Yong Wern Jie**, a **passionate Full-Stack Developer & AI Enthusiast** currently pursuing a **Bachelor of Computer Science (Data Engineering) at Universiti Teknologi Malaysia (UTM)**. I specialize in **web development, AI integration, and data engineering**, turning ideas into impactful tech solutions. 🚀  
+I'm a final-year **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)** who builds **production-grade data platforms, AI-powered applications, and full-stack systems**.
 
-With hands-on experience in **full-stack development, industry collaboration, and AI-driven applications**, I have worked on **real-world projects** that enhance user experiences and system performance.  
+My work sits at the intersection of **data engineering, backend architecture, analytics, and intelligent product development**. I enjoy turning complex workflows into reliable systems — from ETL pipelines and reporting platforms to semantic matching engines and AI-integrated web applications.
 
----
+## About Me
+- 🎓 Final-year **Computer Science (Data Engineering)** student at **UTM**
+- 💼 **Senior System Developer** at **Nexscholar**
+- 📊 **Data Engineering Intern** at **Marrybrown**
+- 🏆 Champion — **InnovHack 2025**
+- 🏆 Champion — **Cisco AI Hackathon 2024**
+- 🥈 2nd Place — **PayNet Digital Campus 4.0** (University & Student Categories)
+- 🌍 Based in **Johor, Malaysia**
 
-## 💡 About Me
-- 🎓 **Computer Science (Data Engineering) Student @ UTM** - 💻 **Lead Programmer @ Nexscholar Sdn. Bhd. (Freelance)** - 🏆 **Champion - Cisco AI Hackathon 2024**
-- 🏆 **Second Place & Special Award - Paynet Digital Campus 3.0** - 🌍 Based in **Johor, Malaysia** - 🎮 Passionate about **web development, AI-driven solutions, software engineering, and data engineering** ## 🔗 Portfolio
-Check out my personal website: [wernjie0713.github.io](https://wernjie0713.github.io/)
+## Current Focus
+- Data engineering and analytics platforms
+- AI-powered applications and RAG systems
+- Backend and full-stack product development
+- Scalable internal tools and reporting systems
+- Data validation, reconciliation, and automation
 
----
+## Tech Stack
 
-## 🔥 Technical Skills
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📊 Databases
+### Backend / Full-Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Data / AI
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Laragon](https://img.shields.io/badge/Laragon-17A2B8?style=for-the-badge)
-![PhpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C5CE7?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078D7?style=for-the-badge&logo=alteryx&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Qdrant](https://img.shields.io/badge/Qdrant-EA4AAA?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OCR](https://img.shields.io/badge/Azure_OCR-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2325A162.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
----
+## Featured Projects
 
-## 🚀 Notable Projects
-### **Nexscholar – Full-Stack Educational Platform**
-- Developed in collaboration with the founder as Lead Programmer
-- Built from scratch using Laravel, React.js, Tailwind CSS, and MySQL
-- Designed as a social platform bridging postgraduates, undergraduates, academic staff, industry partners, and university administrators
-- Features include user authentication, content sharing, academic networking, and AI-powered tools for profile and CV generation
-- Aims to foster collaboration, visibility, and engagement across the academic and professional ecosystem
+### Nexscholar
+Production educational platform supporting academic collaboration, research workflows, and multi-role user experiences. I led full-stack development using **Laravel, React, Tailwind CSS, and MySQL**, and developed **AI-powered semantic matching and recommendation features** using **OpenAI, RAG architecture, and Qdrant**.
 
-🔗 **Try it here →** [Nexscholar](https://nexscholar.com/)
+🔗 [Visit Nexscholar](https://nexscholar.com/)
 
-### **Aiyoh – AI-Powered Learning Platform (JomHack Varsity Challenge 2025)**
-- Co-developed by **team LimaPuluh** for the **"AI for Education & Learning"** track.
-- Designed to **combat student procrastination** and enhance learning through **personalized AI assistance, gamified rewards, and adaptive learning paths**.
-- Key features include a **24/7 AI Tutor (GPT-4o/Gemini)**, interactive rewards, and **PDF processing for generating quizzes and game scenarios**.
-- Built using **React.js, Tailwind CSS, Supabase, and OpenAI API**.
+### UTM DuitNow (PayNet Digital Campus 3.0)
+A transaction recording and verification platform developed for **PayNet Digital Campus 3.0**, where the project earned **2nd Place** and a **Special Award**. Built with **Laravel, React, MySQL, and OCR integration** to automate receipt data extraction, secure transaction logging, and reporting for campus cashless payment adoption.
 
-🔗 **Try it here (Note: AI APIs are currently disconnected post-hackathon) →** [Aiyoh Prototype](https://aiyoh.netlify.app)
+### UTM DuitNow AI (PayNet Digital Campus 4.0)
+An AI-enhanced evolution of UTM DuitNow developed for **PayNet Digital Campus 4.0**, where the initiative secured **2nd Place in both the University and Student categories**. Focused on smarter digital payment workflows, campus integration, and large-scale transaction simulation for cashless transformation.
 
-### **UTM DuitNow – Secure Transaction Record System**
-- Developed a **transaction record system** for **Paynet Digital Campus 3.0 competition** - Features **OCR-based transaction recording, secure payment logging, and data integrity measures** - **Achievements:** Special Award & 2nd Place 🏅  
-- Built using **Laravel, React.ts, MySQL** ### **Book Purchase System – ghostfriend.my**
-- Collaborated with **senior developers** to develop a **book purchasing system** - Built using **Astro + Vue.js**, ensuring **fast performance and high security** - Enhanced the **user experience and backend optimization**
+### EQ-View
+Champion-winning project at **InnovHack 2025**, built to help students improve interview performance through **multimodal AI**, **real-time analysis**, and **privacy-first design**. Designed to bridge the gap between technical ability and confident interview delivery.
 
-🔗 **Try it here →** [真的友鬼 - Book Purchase System](https://ghostfriend.my/)
+### NexusComply
+A full-stack compliance management system designed to streamline audit workflows for multi-outlet businesses. Built with **Laravel, React, Inertia.js, React Native, and Supabase**, featuring a **no-code form builder** and an **AI-powered Excel import tool**.
 
-### **AIcademy – Cisco AI Hackathon Winning Project 🏆**
-- AI-powered **learning platform** designed to **combat academic procrastination** - Features an **AI chatbot, gamified learning experiences, and real-time educational support** 🔗 **Try it here →** [AIcademy Platform](https://aicademy-platform.web.app/)  
-  
-### **YV Track – Industry Collaboration Project**
-- Developed a **student development tracking system** based on **Youth Venture Asia's requirements** - Features include **AI-driven resume generation, reward systems, and event tracking** - Built using **HTML, CSS, JavaScrip, Bootstrap** 🔗 **[More Details](https://drive.google.com/drive/folders/1rz07MxonoSbPA39k-OffWWP7t8yFdmxW)** ---
+### FYP-Link
+A full-stack university project management system built to centralize the Final Year Project lifecycle across multiple user roles. Developed with **.NET 9, ASP.NET Core Web API, React, Tailwind CSS, and Supabase**.
 
-## 📫 Let's Connect!  
-🔗 **LinkedIn:** [Yong Wern Jie](https://www.linkedin.com/in/yong-wern-jie-0a5b90261/)  
-📧 **Email:** [yongwernjie.2003@gmail.com](mailto:yongwernjie.2003@gmail.com)  
-📱 **WhatsApp:** [Click to Chat](https://wa.me/1135752400)  
+### AIcademy
+Champion-winning project from **Cisco AI Hackathon 2024**. An AI-powered learning platform designed to improve academic engagement through intelligent chatbot support, gamified learning, and real-time educational assistance.
 
----
+### Ghostfriend.my – Book Purchase System
+An online book purchasing platform developed as part of a freelance collaboration. Contributed to frontend and backend development using **Astro** and **Vue.js**, with a focus on performance, usability, and responsive design.
 
-## ⚡ Fun Facts
-- 🌶 **Big fan of spicy food** – challenge me if you dare!  
-- ☕ **Coffee enthusiast** – always exploring new brews.  
-- 📸 **Photography lover** – capturing the beauty of everyday moments.  
+🔗 [Visit Ghostfriend.my](https://ghostfriend.my/)
 
----
+## Awards
+- 🏆 Champion — InnovHack 2025
+- 🏆 Champion — Cisco AI Hackathon 2024
+- 🥇 Gold Award — INATEX 2025
+- 🥈 2nd Place — SEA-CICSIS 2025
+- 🥈 2nd Place — UTM-UMK Datathon 2025
+- 🥈 2nd Place — PayNet Digital Campus 4.0 (University Category)
+- 🥈 2nd Place — PayNet Digital Campus 4.0 (Student Category)
+- 🥈 2nd Place & Special Award — PayNet Digital Campus 3.0
 
-## 📊 My GitHub Stats
+## Portfolio
+🌐 [wernjie0713.github.io](https://wernjie0713.github.io/)
+
+## Let's Connect
+- LinkedIn: [Yong Wern Jie](https://www.linkedin.com/in/yong-wern-jie-0a5b90261/)
+- Email: [yongwernjie.2003@gmail.com](mailto:yongwernjie.2003@gmail.com)
+
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/Wernjie0713">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wernjie0713&show_icons=true&count_private=true&theme=react" />
